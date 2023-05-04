@@ -1,3 +1,8 @@
+## 🌐 Sobre mim:
+Meu nome é Leonardo Pietro
+Sou estudande do Colégio Edimar Wright
+Tenho 15 Anos
+
 
 ## 🌐 Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leozin.pietro) 
