@@ -1,7 +1,5 @@
 ## 🌐 Sobre mim:
-Meu nome é Leonardo Pietro
-Sou estudande do Colégio Edimar Wright
-Tenho 15 Anos
+Meu nome é Leonardo Pietro<br>Sou estudande do Colégio Edimar Wright<br>Tenho 15 Anos
 
 
 ## 🌐 Sociais:
