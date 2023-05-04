@@ -12,4 +12,4 @@ leopoliveirasoares@gmail.com
 
 @leozin.pietro
 
-![Programação]((https://tenor.com/bWCUa.gif)
+![Programação](https://tenor.com/bWCUa.gif)
